@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amitesh Kr. Singh - aka [YESIMGOD])
+### Hi there 👋, I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
 ### I'm a Student,Coder,Tech-Enthusiast and Gamer  
 - 🔭 2nd year CSE Student at JUET,Guna 
