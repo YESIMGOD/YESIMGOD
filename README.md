@@ -6,7 +6,7 @@
 - ⚡ Looking forward to explore more in Cybersecurity and WebDev
 - 😊 Would love to collaborate and work on open source projects
 - 💻 Currently 3⭐(1645) at CodeChef
-- 🥅 2022 Goal: 5⭐at CodeChef and projects on Ciphers
+- 🥅 2022 Goal: Projects on Ciphers and many more....
 <br />
 
 ## :trophy: Languages and Tools:
