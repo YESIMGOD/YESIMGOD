@@ -5,7 +5,7 @@
 - 🌱 Currently learning and working on Ciphers
 - ⚡ Looking forward to explore more in Cybersecurity and WebDev
 - 😊 Would love to collaborate and work on open source projects
-- 💻 Currently 3⭐(1645) at CodeChef
+- 💻 Currently working on Django
 - 🥅 2022 Goal: Projects on Ciphers and many more....
 <br />
 
