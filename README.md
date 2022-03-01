@@ -27,7 +27,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yesimgod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesimgod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="amitesh-kumar-singh-086829196" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/amitesh-kumar-singh-086829196?trk=profile-badge">Amitesh Kumar Singh</a></div>
-              
