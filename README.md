@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Amitesh Kr. Singh - aka [YESIMGOD]
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+### I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
 ### I'm a Student,Coder,Tech-Enthusiast and Gamer  
 - 🔭 2nd year CSE Student at JUET,Guna 
@@ -23,7 +26,7 @@
 <br>
 
 <div align = "center">
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>
 
