@@ -6,11 +6,11 @@
 
 ### I'm a Student,Coder,Tech-Enthusiast and Gamer  
 - 🔭 2nd year CSE Student at JUET,Guna 
-- 🌱 Currently learning and working on Ciphers
-- ⚡ Looking forward to explore more in Cybersecurity and WebDev
+- 🌱 Currently learning and working on Computer Vision
+- ⚡ Looking forward to explore more in Machine Learning and WebDev
 - 😊 Would love to collaborate and work on open source projects
-- 💻 Currently working on Django
-- 🥅 2022 Goal: Projects on Ciphers and many more....
+- 💻 Currently working on Tensorflow
+- 🥅 2022 Goal: Projects on Tenserflow, Computer Vision and many more....
 <br />
 
 ## :trophy: Languages and Tools:
