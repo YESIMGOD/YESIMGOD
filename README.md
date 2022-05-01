@@ -21,7 +21,7 @@
 ## :mailbox: Get in touch: 💬
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120px">](https://www.linkedin.com/in/amitesh-kumar-singh-086829196/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100x">](mailto:ristoo2001@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="98x">](mailto:ristoo2001@gmail.com)
 [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="120px">](https://www.codechef.com/users/dr3am)
 <br>
 <br>
