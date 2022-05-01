@@ -5,7 +5,7 @@
 ### I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
 ### I'm a Student,Coder,Tech-Enthusiast and Gamer  
-- :student: 2nd year CSE Student at JUET,Guna 
+- 🔭 2nd year CSE Student at JUET,Guna 
 - 🌱 Currently learning and working on Ciphers
 - ⚡ Looking forward to explore more in Cybersecurity and WebDev
 - 😊 Would love to collaborate and work on open source projects
