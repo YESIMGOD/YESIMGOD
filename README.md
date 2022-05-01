@@ -2,10 +2,10 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-### I'm Amitesh Kr. Singh - aka [:Y:]
+### I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
 ### I'm a Student,Coder,Tech-Enthusiast and Gamer  
-- 🔭 2nd year CSE Student at JUET,Guna 
+- :student: 2nd year CSE Student at JUET,Guna 
 - 🌱 Currently learning and working on Ciphers
 - ⚡ Looking forward to explore more in Cybersecurity and WebDev
 - 😊 Would love to collaborate and work on open source projects
