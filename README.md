@@ -1,8 +1,10 @@
 <div align="center">
-[<img src="https://raw.githubusercontent.com/YESIMGOD/YESIMGOD/master/intro.gif" alt="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)" title="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)"/>]
-</div>
 
-### I'm Amitesh Kr. Singh - aka [YESIMGOD]
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+</div>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
 
 ### A Student,Coder,Tech-Enthusiast and Developer 
 - 🔭 2nd year CSE Student at JUET,Guna 
@@ -29,6 +31,11 @@
 ## :zap: Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yesimgod&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesimgod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
 
 
 ## :smile: Random dev joke for you!
