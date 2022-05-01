@@ -22,7 +22,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesimgod&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-## :smile: Random dev joke for you!:
+## :smile: Random dev joke for you!
 <div align = "center">
 <br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
