@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="175" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="185" height="auto" />
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='180"'>
 </div>
 
