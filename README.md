@@ -34,5 +34,5 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="96x">](mailto:ristoo2001@gmail.com)
 [<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" width="122px">](https://www.codechef.com/users/dr3am) 
 <br>
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" width="122px">]
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" width="122px">
 <br>
