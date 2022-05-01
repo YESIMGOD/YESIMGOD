@@ -1,5 +1,5 @@
 <div align="center">
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)" title="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/YESIMGOD/YESIMGOD/master/intro.gif" alt="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)" title="👋 Hi there! I'm (YESIMGOD|Amitesh Singh)"/>]
 </div>
 
 ### I'm Amitesh Kr. Singh - aka [YESIMGOD]
