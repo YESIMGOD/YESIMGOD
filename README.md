@@ -4,7 +4,7 @@
 
 ### I'm Amitesh Kr. Singh - aka [YESIMGOD]
 
-### I'm a Student,Coder,Tech-Enthusiast and Gamer  
+### A Student,Coder,Tech-Enthusiast and Developer 
 - 🔭 2nd year CSE Student at JUET,Guna 
 -  Currently learning and working on <b>Computer Vision</b> and <b>Tenserflow</b>
 - ⚡ Looking forward to explore more in Machine Learning and WebDev
