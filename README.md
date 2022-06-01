@@ -1,6 +1,6 @@
 <div>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="185" height="auto" />
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='180"'>
+
 </div>
 
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
