@@ -3,7 +3,7 @@
 
 </div>
 
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
 
 ### A Student,Coder,Tech-Enthusiast and Developer 
 - 🔭 2nd year CSE Student at JUET,Guna 
