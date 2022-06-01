@@ -1,9 +1,9 @@
 <div>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="185" height="auto" />
-
+<img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' align="right" width="190" height="auto">
 </div>
 
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="auto">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
+### Hi  I'm Amitesh Kr. Singh - aka [YESIMGOD] 
 
 ### A Student,Coder,Tech-Enthusiast and Developer 
 - 🔭 2nd year CSE Student at JUET,Guna 
