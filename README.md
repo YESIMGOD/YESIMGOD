@@ -6,11 +6,11 @@
 ### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="auto">, I'm Amitesh Kr. Singh - aka [YESIMGOD] 
 
 ### A Student,Coder and Developer 
-- 🔭 3rd year CSE Student at JUET,Guna 
+- 🔭 Pre placement year CSE Student at JUET,Guna 
 - 💻 Currently learning and working on <b>Computer Networks</b> and <b>Database Management</b>
 - ⚡ Looking forward to explore and implement different tech stacks
 - 😊 Would love to collaborate and work on various open source projects
-- 🥅 2022 Goal: To achieve more than 2021's Goal....
+- 🥅 2023 Goal: To achieve more than 2022's Goal....
 <br />
 
 ## :book: Languages
