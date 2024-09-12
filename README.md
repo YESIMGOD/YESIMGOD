@@ -3,7 +3,7 @@
 <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' align="right" width="190" height="auto">
 </div>
 
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="auto">, I'm Amitesh - aka [YESIMGOD] 
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="auto">, I'm Amitesh 
 
 ### A Coder, Developer & Learner  
 - 💻 Currently learning and working on <b>Database Management</b>
